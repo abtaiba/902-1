@@ -1,5 +1,6 @@
 # 902-1
 
-Upload to google colab
-
+SEED = 1522
+GPU = T4 
+Platform = Google Colab
 Run all
